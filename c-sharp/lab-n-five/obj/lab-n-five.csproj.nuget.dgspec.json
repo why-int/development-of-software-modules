@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/iodegov/dev/college/development-of-software-modules/c-sharp/lab-n-five/lab-n-five.csproj": {}
+    "/Users/iodegov/dev/03_Other/development-of-software-modules/c-sharp/lab-n-five/lab-n-five.csproj": {}
   },
   "projects": {
-    "/Users/iodegov/dev/college/development-of-software-modules/c-sharp/lab-n-five/lab-n-five.csproj": {
+    "/Users/iodegov/dev/03_Other/development-of-software-modules/c-sharp/lab-n-five/lab-n-five.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/iodegov/dev/college/development-of-software-modules/c-sharp/lab-n-five/lab-n-five.csproj",
+        "projectUniqueName": "/Users/iodegov/dev/03_Other/development-of-software-modules/c-sharp/lab-n-five/lab-n-five.csproj",
         "projectName": "lab-n-five",
-        "projectPath": "/Users/iodegov/dev/college/development-of-software-modules/c-sharp/lab-n-five/lab-n-five.csproj",
+        "projectPath": "/Users/iodegov/dev/03_Other/development-of-software-modules/c-sharp/lab-n-five/lab-n-five.csproj",
         "packagesPath": "/Users/iodegov/.nuget/packages/",
-        "outputPath": "/Users/iodegov/dev/college/development-of-software-modules/c-sharp/lab-n-five/obj/",
+        "outputPath": "/Users/iodegov/dev/03_Other/development-of-software-modules/c-sharp/lab-n-five/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/iodegov/.nuget/NuGet/NuGet.Config"

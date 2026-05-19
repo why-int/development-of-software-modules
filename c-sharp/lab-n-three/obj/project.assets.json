@@ -302,11 +302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/iodegov/dev/college/development-of-software-modules/c-sharp/lab-n-three/lab-n-three.csproj",
+      "projectUniqueName": "/Users/iodegov/dev/03_Other/development-of-software-modules/c-sharp/lab-n-three/lab-n-three.csproj",
       "projectName": "lab-n-three",
-      "projectPath": "/Users/iodegov/dev/college/development-of-software-modules/c-sharp/lab-n-three/lab-n-three.csproj",
+      "projectPath": "/Users/iodegov/dev/03_Other/development-of-software-modules/c-sharp/lab-n-three/lab-n-three.csproj",
       "packagesPath": "/Users/iodegov/.nuget/packages/",
-      "outputPath": "/Users/iodegov/dev/college/development-of-software-modules/c-sharp/lab-n-three/obj/",
+      "outputPath": "/Users/iodegov/dev/03_Other/development-of-software-modules/c-sharp/lab-n-three/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/iodegov/.nuget/NuGet/NuGet.Config"

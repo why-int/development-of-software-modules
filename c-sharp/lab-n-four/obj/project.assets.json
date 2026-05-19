@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/iodegov/dev/college/development-of-software-modules/c-sharp/lab-n-four/lab-n-four.csproj",
+      "projectUniqueName": "/Users/iodegov/dev/03_Other/development-of-software-modules/c-sharp/lab-n-four/lab-n-four.csproj",
       "projectName": "lab-n-four",
-      "projectPath": "/Users/iodegov/dev/college/development-of-software-modules/c-sharp/lab-n-four/lab-n-four.csproj",
+      "projectPath": "/Users/iodegov/dev/03_Other/development-of-software-modules/c-sharp/lab-n-four/lab-n-four.csproj",
       "packagesPath": "/Users/iodegov/.nuget/packages/",
-      "outputPath": "/Users/iodegov/dev/college/development-of-software-modules/c-sharp/lab-n-four/obj/",
+      "outputPath": "/Users/iodegov/dev/03_Other/development-of-software-modules/c-sharp/lab-n-four/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/iodegov/.nuget/NuGet/NuGet.Config"

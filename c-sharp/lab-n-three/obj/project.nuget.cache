@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tDXgWUVjw3M=",
+  "dgSpecHash": "jZDXeWnqI1U=",
   "success": true,
-  "projectFilePath": "/Users/iodegov/dev/college/development-of-software-modules/c-sharp/lab-n-three/lab-n-three.csproj",
+  "projectFilePath": "/Users/iodegov/dev/03_Other/development-of-software-modules/c-sharp/lab-n-three/lab-n-three.csproj",
   "expectedPackageFiles": [
     "/Users/iodegov/.nuget/packages/closedxml/0.105.0/closedxml.0.105.0.nupkg.sha512",
     "/Users/iodegov/.nuget/packages/closedxml.parser/2.0.0/closedxml.parser.2.0.0.nupkg.sha512",
